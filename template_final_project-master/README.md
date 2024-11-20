@@ -23,6 +23,7 @@ This will be a simple game of Blackjack against a CPU. The player and CPU will b
 
 ### Final Design
 
+
 ![final gui](assets/finalgui.jpg)
 
 ## Program Design
